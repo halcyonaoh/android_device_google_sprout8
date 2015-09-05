@@ -1,0 +1,23 @@
+[
+
+  {
+    "repository": "device_google_sprout-common",
+    "target_path": "device/google/sprout-common",
+	    "branch":      "sokp-l5.1"
+  },
+  {
+    "repository": "kernel_mediatek_sprout",
+    "target_path": "kernel/mediatek/sprout",
+	    "branch":      "sokp-l5.1"
+  },
+  {
+    "repository": "proprietary_vendor_google",
+    "target_path": "vendor/google",
+	    "branch":      "sokp-l5.1"
+  },
+  {
+    "repository":     "packages_apps_FMRadio",
+    "target_path": "packages/apps/FMRadio",
+    	    "branch":           "sokp-l5.1"
+  }
+]
