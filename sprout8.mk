@@ -14,6 +14,11 @@
 # limitations under the License.
 #
 
+# SaberMod
+LOCAL_ARCH := arm
+TARGET_SM_AND := 4.9
+TARGET_SM_KERNEL := 4.9
+
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
